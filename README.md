@@ -5,7 +5,7 @@
 前回からの差分のみをスクレイピングするようになっています。
 https://cpi.makecir.com/
 
-![グラフ](screenshot.png)
+![グラフ](cpi_graph.png)
 
 ## 使用した技術
 - python
